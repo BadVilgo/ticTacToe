@@ -9,7 +9,7 @@ function App() {
         <Player name="Name 1" symbol="X" />
         <Player name="Name 2" symbol="O" />
       </ol>
-          BOARD
+          BOARD2
     </div>
 
   )
